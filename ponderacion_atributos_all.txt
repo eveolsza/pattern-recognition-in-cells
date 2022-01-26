@@ -1,0 +1,10 @@
+cohen_Kappa---0.8512
+promedio_cohen_Kappa---0.8439
+Mean---0.5851
+Brightness---0.0826
+correlation---0.0764
+contrast---0.0681
+dissimilarity---0.0552
+homogeneity---0.0518
+ASM---0.0435
+energy---0.0372
